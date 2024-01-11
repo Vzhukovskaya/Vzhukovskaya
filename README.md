@@ -28,6 +28,6 @@ I'm Valeriia, a passionate frontend developer 👨‍💻 highly motivated and d
 
 - [LinkedIn](https://www.linkedin.com/in/valeriia-zhukovska-8aa977272/)
 - [Instagram](https://instagram.com/zhukovskaya.valeriia?igshid=MzRlODBiNWFlZA==)
-- [Telegram](Valeriia_Zukovska)
+- [Telegram](https://t.me/Valeriia_Zukovska)
 
 Feel free to reach out if you want to discuss tech, collaborate, or explore projects together!
