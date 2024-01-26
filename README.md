@@ -1,5 +1,5 @@
 # Hi 👋 
-I'm Valeriia, a passionate frontend developer 👨‍💻 highly motivated and dedicated to creating web applications.
+I'm Valeriia, a passionate frontend developer 👩🏻‍💻highly motivated and dedicated to creating web applications.
 
 🔭 Currently I'm working on React desktop/browser apps and systems  
 🌱 Also I'm diving deep into learning TypeScript, NextJS and of course JS improvements  
