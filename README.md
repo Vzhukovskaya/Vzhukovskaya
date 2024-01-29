@@ -16,32 +16,32 @@ I'm Valeriia, a passionate frontend developer 👩🏻‍💻 highly motivated a
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vzhukovskaya)
+![Years](https://badges.pufler.dev/years/Vzhukovskaya?style=flat-square&color=blue&logo=github&a=0)
+![Repos](https://badges.pufler.dev/repos/Vzhukovskaya?style=flat-square&color=blue&logo=github&a=0)
+![Commits](https://badges.pufler.dev/commits/monthly/Vzhukovskaya?style=flat-square&color=blue&logo=github&a=0)
 
 
 ## 🚀 Technologies:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/786aae429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/786aae429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/786aae429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/786aae429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/786aae429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/786aae429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/786aae429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/786aae429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/786aae429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/786aae429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/786aae429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/786aae429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blueviolet?logo=css3&logoColor=white)
 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-%230769AD?logo=jquery&logoColor=white)
+![Gulp](https://img.shields.io/badge/-Gulp-%23CF4647?logo=gulp&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-%238DD6F9?logo=webpack&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-%23777BB4?logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-%2321759B?logo=wordpress&logoColor=white)
 
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-valeriiazhukovska-blue?style=flat-square&logo=Linkedin&color=blue&link=https://www.linkedin.com/in/valeriia-zhukovska-8aa977272/)](https://www.linkedin.com/in/valeriia-zhukovska-8aa977272/)
-
-[![Instagram Badge](https://img.shields.io/badge/-zhukovskaya.valeriia-blue?style=flat-square&logo=Instagram&logoColor=white&color=blue&link=https://instagram.com/zhukovskaya.valeriia?igshid=MzRlODBiNWFlZA==)](https://instagram.com/zhukovskaya.valeriia?igshid=MzRlODBiNWFlZA==)
-
-[![Telegram Badge](https://img.shields.io/badge/-Valeriia_Zukovska-blue?style=flat-square&logo=Telegram&logoColor=white&color=blue&link=https://t.me/Valeriia_Zukovska)](https://t.me/Valeriia_Zukovska)
-
+- [LinkedIn](https://www.linkedin.com/in/valeriia-zhukovska-8aa977272/)
+- [Instagram](https://instagram.com/zhukovskaya.valeriia?igshid=MzRlODBiNWFlZA==)
+- [Telegram](https://t.me/Valeriia_Zukovska) 
 
 Feel free to reach out if you want to discuss tech, collaborate, or explore projects together!
