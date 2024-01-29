@@ -29,7 +29,6 @@ These skillfully assembled technologies represent a comprehensive combination fo
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet?logo=css3&logoColor=white)
-
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-%230769AD?logo=jquery&logoColor=white)
 ![Gulp](https://img.shields.io/badge/-Gulp-%23CF4647?logo=gulp&logoColor=white)
