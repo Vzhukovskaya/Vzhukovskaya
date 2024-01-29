@@ -23,8 +23,8 @@ I'm Valeriia, a passionate frontend developer 👩🏻‍💻 highly motivated a
 ## 🚀 Technology stack:
 These skillfully assembled technologies represent a comprehensive combination for effective development of dynamic and attractive web applications endowed with a wide range of functionality.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet?logo=css3&logoColor=white)
