@@ -9,8 +9,24 @@ I'm Valeriia, a passionate frontend developer 👩🏻‍💻 highly motivated a
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vzhukovskaya&layout=compact&theme=light) 
-
 <div style="line-height: 1.5;">
+  
+<p align="justify">
+  <a href="https://github.com/Vzhukovskaya/Vzhukovskaya/">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=Vzhukovskaya&count_private=true&show_icons=true&custom_title=Github%20Status"
+      alt="Valeriia's GitHub stats"
+    />
+  </a>
+   <a href="https://github.com/Vzhukovskaya/Vzhukovskaya/">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vzhukovskaya&layout=compact&langs_count=6"
+      alt="Valeriia's top langs stats"
+    />
+  </a>  
+</p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vzhukovskaya&layout=compact&theme=light)
 
@@ -38,8 +54,9 @@ I'm Valeriia, a passionate frontend developer 👩🏻‍💻 highly motivated a
 
 ## 🌐 Connect with Me:
 
-- [LinkedIn](https://www.linkedin.com/in/valeriia-zhukovska-8aa977272/)
-- [Instagram](https://instagram.com/zhukovskaya.valeriia?igshid=MzRlODBiNWFlZA==)
-- [Telegram](https://t.me/Valeriia_Zukovska)
+[![LinkedIn Badge](https://img.shields.io/badge/-valeriiazhukovska-blue?style=flat-square&logo=Linkedin&color=blue&link=https://www.linkedin.com/in/valeriia-zhukovska-8aa977272/)](https://www.linkedin.com/in/valeriia-zhukovska-8aa977272/)
+[![Instagram Badge](https://img.shields.io/badge/-zhukovskaya.valeriia-blue?style=flat-square&logo=Instagram&logoColor=white&color=blue&link=https://instagram.com/zhukovskaya.valeriia?igshid=MzRlODBiNWFlZA==)](https://instagram.com/zhukovskaya.valeriia?igshid=MzRlODBiNWFlZA==)
+[![Telegram Badge](https://img.shields.io/badge/-Valeriia_Zukovska-blue?style=flat-square&logo=Telegram&logoColor=white&color=blue&link=https://t.me/Valeriia_Zukovska)](https://t.me/Valeriia_Zukovska)
+
 
 Feel free to reach out if you want to discuss tech, collaborate, or explore projects together!
