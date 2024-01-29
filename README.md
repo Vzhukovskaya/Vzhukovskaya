@@ -20,7 +20,7 @@ I'm Valeriia, a passionate frontend developer 👩🏻‍💻 highly motivated a
 ![Repos](https://badges.pufler.dev/repos/Vzhukovskaya?style=flat-square&color=blue&logo=github&a=0)
 ![Commits](https://badges.pufler.dev/commits/monthly/Vzhukovskaya?style=flat-square&color=blue&logo=github&a=0)
 
-## Technology stack:
+## 🚀 Technology stack:
 These skillfully assembled technologies represent a comprehensive combination for effective development of dynamic and attractive web applications endowed with a wide range of functionality.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
