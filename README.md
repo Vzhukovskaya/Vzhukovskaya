@@ -15,8 +15,8 @@ I'm Valeriia, a passionate frontend developer 👩🏻‍💻 highly motivated a
 
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vzhukovskaya)
 ![Years](https://badges.pufler.dev/years/Vzhukovskaya?style=flat-square&color=blue&logo=github&a=0)
+![Profile Views](https://komarev.com/ghpvc/?username=Vzhukovskaya)
 ![Repos](https://badges.pufler.dev/repos/Vzhukovskaya?style=flat-square&color=blue&logo=github&a=0)
 ![Commits](https://badges.pufler.dev/commits/monthly/Vzhukovskaya?style=flat-square&color=blue&logo=github&a=0)
 
