@@ -11,7 +11,7 @@ I'm Valeriia, a passionate frontend developer 👩🏻‍💻 highly motivated a
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vzhukovskaya&layout=compact&theme=light) 
 <div style="line-height: 1.5;">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vzhukovskaya&layout=compact&theme=light)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vzhukovskaya&layout=compact&theme=dark)
 
 </div>
 
