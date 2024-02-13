@@ -2,9 +2,9 @@
 I'm Valeriia, a passionate frontend developer 👩🏻‍💻 highly motivated and dedicated to creating web applications.
 
 🔭 Currently I'm working on React desktop/browser apps and systems  
-🌱 Also I'm diving deep into learning TypeScript, NextJS and of course JS improvements  
+🌱 Also I'm diving deep into learning TypeScript, NextJS.
 💬 Ask me about: tech, equestrian sport and a little bit about psychology  
-⚡ Technologies: React, Redux, MobX, Node.js, etc.  
+⚡ Technologies: React, Redux toolkit, MobX, Node.js, etc.  
 
 
 ## 📊 GitHub Stats:
